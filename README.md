@@ -1,1 +1,7 @@
-This is an archive of my course work from CPSC-2430 (Data Structures)
+# Data Structures (CPSC 2430)
+Taken at Seattle University with Prof. Beatriz Diaz Acosta
+
+## Main Topics Covered:
+
+
+##
